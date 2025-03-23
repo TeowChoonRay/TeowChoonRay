@@ -1,4 +1,4 @@
-# Hi I'm Choon Ray 👋
+# Hi! I'm Choon Ray 👋
 
 # 🤝🏻 Socials
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/choonray/)](https://www.linkedin.com/in/choonray/)
