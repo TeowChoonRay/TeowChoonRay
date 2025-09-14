@@ -30,8 +30,8 @@
 </p>
 
 # 🏆 Acheivements
-- 🥇 **National Champions**, SCDF-Dell Lifesaver’s Innovation Challenge 2025  
-- 🏆 **4th Place**, NTU CCDS Tech Fest Hackathon 2025  
+- 🥇 **National Champions**, SCDF-Dell Lifesaver’s Innovation Challenge 2025 (Out of 132 Singapore Teams 🇸🇬) 
+- 🏅 **4th Place**, NTU CCDS Tech Fest Hackathon 2025  
 - 🔟 **Top 10**, NTU CCDS Tech Fest Hackathon 2024  
 - 🔟 **Top 10**, NTU CAO "Code with AI" Hackathon 2025  
 
