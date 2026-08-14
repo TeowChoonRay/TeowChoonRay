@@ -30,6 +30,7 @@
 </p>
 
 # 🏆 Acheivements
+5 Hackathons Participated. 100% Finalist Record.
 - 🥇 **National Champions**, SCDF-Dell Lifesaver’s Innovation Challenge 2025 🇸🇬
 - 🏅 **4th Place**, NTU CCDS Tech Fest Hackathon 2025
 - 🔟 **Top 10**, BioPharma Hack Day at AWS, San Francisco 2026
